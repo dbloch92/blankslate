@@ -1,0 +1,18 @@
+/*
+Theme Name: BlankSlate
+Theme URI: http://tidythemes.com/blankslate/
+Description: The bare essentials of a WordPress theme, no CSS styles added. Perfect for those who would like to build their own theme from scratch. One custom menu and one widgetized sidebar to get you started.
+Author: TidyThemes
+Author URI: http://tidythemes.com/
+Version: 1.0
+Tags: white, blue, left-sidebar, right-sidebar, fixed-width, flexible-width, custom-menu, microformats
+
+You may edit this theme to your hearts content :).
+*/
+
+.wp-caption class{}
+.wp-caption-text class{}
+.gallery-caption class{}
+.alignright class{}
+.alignleft class{}
+.aligncenter class{}
