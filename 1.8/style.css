@@ -1,0 +1,20 @@
+/*
+Theme Name: BlankSlate
+Theme URI: http://tidythemes.com/blankslate/
+Description: The bare essentials of a WordPress theme, no CSS styles added. Perfect for those who would like to build their own theme from scratch or for clients if you're a developer or designer. This theme is clean; valid code, semi minified, no comments, SEO-friendly and 100% open source. One custom menu and one widgetized sidebar to get you started. If you don't know CSS and would like to learn we've prepared: http://tidythemes.com/want-to-learn-css/ and please visit us in the forum for further help: http://tidythemes.com/forum/ - Thank You
+Author: TidyThemes
+Author URI: http://tidythemes.com/
+Version: 1.8
+Tags: custom-menu, featured-images, microformats, sticky-post, threaded-comments
+License: GNU General Public License v2.0 | From TidyThemes: This theme is completely free and open source. You may edit this theme to your hearts content :).
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.sticky{}
+.bypostauthor{}
+.wp-caption{}
+.wp-caption-text{}
+.gallery-caption{}
+.alignright{}
+.alignleft{}
+.aligncenter{}
